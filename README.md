@@ -6,10 +6,10 @@ Table of Contents
 1) Features
 2) Technologies
 Features
--> YouTube Video Transcript Retrieval: Automatically fetches video transcripts from YouTube.
--> Summarization: Utilizes LangChain and Google Gemini to generate concise summaries of video content.
--> Interactive Web Interface: Provides an easy-to-use interface with Streamlit to interact with the summarization tool.
--> User-Friendly: Simple and intuitive design to summarize videos with minimal effort.
+1) YouTube Video Transcript Retrieval: Automatically fetches video transcripts from YouTube.
+2) Summarization: Utilizes LangChain and Google Gemini to generate concise summaries of video content.
+3) Interactive Web Interface: Provides an easy-to-use interface with Streamlit to interact with the summarization tool.
+4) User-Friendly: Simple and intuitive design to summarize videos with minimal effort.
 Technologies
 This project uses the following technologies:
 
