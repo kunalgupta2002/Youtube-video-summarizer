@@ -25,3 +25,4 @@ Installation
 To get started with the YouTube Video Summarizer, follow these steps:
 
 Clone the Repository: 
+git clone https://github.com/kunalgupta2002/Youtube-video-summarizer.git
