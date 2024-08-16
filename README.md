@@ -10,7 +10,10 @@ Features
 2) Summarization: Utilizes LangChain and Google Gemini to generate concise summaries of video content.
 3) Interactive Web Interface: Provides an easy-to-use interface with Streamlit to interact with the summarization tool.
 4) User-Friendly: Simple and intuitive design to summarize videos with minimal effort.
+
+
 Technologies
+
 This project uses the following technologies:
 
 1) LangChain: For advanced natural language processing and summarization.
