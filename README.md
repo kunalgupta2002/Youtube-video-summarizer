@@ -20,3 +20,8 @@ This project uses the following technologies:
 2) Google Gemini: For leveraging Google's language models to enhance summarization capabilities.
 3) YouTube Transcript API: To fetch transcripts of YouTube videos.
 4) Streamlit: For creating the interactive web interface.
+
+Installation
+To get started with the YouTube Video Summarizer, follow these steps:
+
+Clone the Repository: 
